@@ -115,6 +115,16 @@ p.lead {
     color: #fff !important;
 }
 
+/* Жаңалықтар және Пікірлер бөлімдерін ақ қылу */
+#news p,
+#news h2,
+#news .card-body,
+#reviews p,
+#reviews h2,
+#reviews .card-body {
+    color: #fff !important;
+}
+
 /* Жаңалықтар карточкасы */
 .news-card {
     background: rgba(42, 42, 42, 0.9);
